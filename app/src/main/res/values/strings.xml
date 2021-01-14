@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Suraksha</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Profile</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="the_key_to_safety_is_in_your_hands">The Key To Safety is in Your Hands</string>
+    <string name="by_shaurya_goyal">By - Shaurya Goyal</string>
+    <string name="please_turn_on_the_bluetooth">Please turn on the Bluetooth</string>
+    <string name="profile">Profile</string>
+    <string name="user_name">User Name</string>
+    <string name="user_age">User Age</string>
+    <string name="save">Save</string>
+    <string name="action_history">History</string>
+    <string name="history">History</string>
+    <string name="no_history_found">No History Found</string>
+</resources>
